@@ -1,0 +1,64 @@
+DDC:\Program Files\Crescent Eve
+FDC:\Program Files\Crescent Eve\install_log
+DDC:\Program Files\Crescent Eve\dtd
+DDC:\Program Files\Crescent Eve\keyword
+FDC:\Program Files\Crescent Eve\dtd\html401-strict.map
+FDC:\Program Files\Crescent Eve\dtd\html401-loose.map
+FDC:\Program Files\Crescent Eve\dtd\html401-frameset.map
+FDC:\Program Files\Crescent Eve\dtd\html5.map
+FDC:\Program Files\Crescent Eve\dtd\xhtml1-strict.map
+FDC:\Program Files\Crescent Eve\dtd\xhtml1-transitional.map
+FDC:\Program Files\Crescent Eve\dtd\xhtml1-frameset.map
+FDC:\Program Files\Crescent Eve\dtd\xhtml-basic10.map
+FDC:\Program Files\Crescent Eve\dtd\xhtml11.map
+FDC:\Program Files\Crescent Eve\dtd\xhtml-mobile10.map
+FDC:\Program Files\Crescent Eve\dtd\ie55.map
+FDC:\Program Files\Crescent Eve\dtd\imode500.map
+FDC:\Program Files\Crescent Eve\dtd\imode-xhtml100.map
+FDC:\Program Files\Crescent Eve\keyword\perl.kwd
+FDC:\Program Files\Crescent Eve\keyword\java.kwd
+FDC:\Program Files\Crescent Eve\keyword\cpp.kwd
+FDC:\Program Files\Crescent Eve\Eve.exe
+FDC:\Program Files\Crescent Eve\eve.txt
+FDC:\Program Files\Crescent Eve\eve_hint.txt
+FDC:\Program Files\Crescent Eve\eve_conf.exe
+FDC:\Program Files\Crescent Eve\regist.exe
+FDC:\Program Files\Crescent Eve\edit_string.exe
+FDC:\Program Files\Crescent Eve\set_browser.exe
+FDC:\Program Files\Crescent Eve\eve_extension.dll
+FDC:\Program Files\Crescent Eve\lint.dll
+FDC:\Program Files\Crescent Eve\colorpicker.dll
+FDC:\Program Files\Crescent Eve\htmltools.dll
+FDC:\Program Files\Crescent Eve\document.ico
+FDC:\Program Files\Crescent Eve\uninstall.exe
+RDHKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\CrescentEve
+DDC:\ProgramData\Microsoft\Windows\Start Menu\Programs\Crescent Eve\
+FDC:\ProgramData\Microsoft\Windows\Start Menu\Programs\Crescent Eve\Crescent Eve.lnk
+FDC:\ProgramData\Microsoft\Windows\Start Menu\Programs\Crescent Eve\Crescent Eve ‚¨“Ç‚Ý‚­‚¾‚³‚¢.lnk
+RDHKEY_CLASSES_ROOT\.htm\OpenWithList\eve.exe
+RDHKEY_CLASSES_ROOT\Applications\eve.exe
+RDHKEY_CLASSES_ROOT\Applications\eve.exe\shell
+RDHKEY_CLASSES_ROOT\Applications\eve.exe\shell\edit
+RDHKEY_CLASSES_ROOT\Applications\eve.exe\shell\edit\command
+RDHKEY_CLASSES_ROOT\CrescentEveFile
+RDHKEY_CLASSES_ROOT\CrescentEveFile\shell
+RDHKEY_CLASSES_ROOT\CrescentEveFile\shell\open
+RDHKEY_CLASSES_ROOT\CrescentEveFile\shell\open\command
+RDHKEY_CLASSES_ROOT\CrescentEveFile\DefaultIcon
+FDC:\Users\ueda-l540\AppData\Roaming\Microsoft\Windows\SendTo\Crescent Eve.lnk
+RUHKEY_CLASSES_ROOT\.css|CSSfile
+RDHKEY_CLASSES_ROOT\CrescentEveFile
+RDHKEY_CLASSES_ROOT\CrescentEveFile\shell
+RDHKEY_CLASSES_ROOT\CrescentEveFile\shell\open
+RDHKEY_CLASSES_ROOT\CrescentEveFile\shell\open\command
+RDHKEY_CLASSES_ROOT\CrescentEveFile\DefaultIcon
+RUHKEY_CLASSES_ROOT\.txt|txtfile
+RDHKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\View Source Editor
+RDHKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\View Source Editor\Editor Name
+RDHKEY_CLASSES_ROOT\htmlfile\shell\EditWithEve
+RDHKEY_CLASSES_ROOT\htmlfile\shell\EditWithEve\command
+RDHKEY_CLASSES_ROOT\htmlfile\shell\EditWithEve
+RDHKEY_CLASSES_ROOT\htmlfile\shell\EditWithEve\command
+RDHKEY_CLASSES_ROOT\CrescentEveFile\shell\EditWithEve
+RDHKEY_CLASSES_ROOT\CrescentEveFile\shell\EditWithEve\command
+RDHKEY_CURRENT_USER\Software\Kashim\CrescentEve
