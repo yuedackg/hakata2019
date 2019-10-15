@@ -30,7 +30,7 @@
 
             }
             #sectionOnePeace{
-                display:none;
+                display:block;
             }
             footer{
                 background-color: #ff3355;
@@ -45,8 +45,26 @@
             #navIdEnd{
                 clear:left;
             }
+            #pMentaiko{
+                width: 30%;
+                border: solid 1px red;
+            }
         </style>
         <script>
+            function navIdOnePeace(){
+                window.alert( "oK");
+
+            }
+            function navIdDoraemon(){
+                window.alert( "ok step.0");
+                let item = document.getElementById( "sectionTopPage");
+                item.style.display = "none";
+
+                let item = document.getElementById( "sectionOnePeace");
+/*
+                item.style.display = "block";
+*/
+            }
         </script>
     </head>
     <body>
@@ -54,8 +72,8 @@
                 <h1>Yoshihiro UEDA's Gallary Page</h1>
         </header>
         <nav>
-            <div id="navIdOnePeace" class="navTile">one peace</div>
-            <div id="navIdDoraemon" class="navTile">ドラえもん</div>
+            <div id="navIdOnePeace" class="navTile" onclick="navIdOnePeace()">one peace</div>
+            <div id="navIdDoraemon" class="navTile" onclick="navIdDoraemon()">ドラえもん</div>
             <div id="navIdEnd"></div>
         </nav>
         <section id="sectionTopPage">
@@ -63,6 +81,17 @@
             <hr>
             <img src="sozai/1.jpg" alt="one peace">
             <img src="sozai/10.jpg" alt="doraemon">
+
+        </section>
+        <section id="sectionMentaiko">
+            <h1>ベトナム特別クラス　学外研修</h1>
+            <hr>
+            <img src="sozai/1.jpg" alt="明太子つくりの写真">
+            <div id="pMentaiko">
+                ○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○
+                ○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○
+                ○○○○○○○○○○○○○○
+            </div>
 
         </section>
         <section id="sectionOnePeace">
